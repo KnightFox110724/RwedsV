@@ -1105,3 +1105,15 @@ td:first-child {
 .active~ul .floating__link:nth-child(3) {
 	transform: translate(0, -10.2rem);
 }
+
+.container_imgtext {
+ display: grid;
+ align-items: center; 
+ grid-template-columns: 1fr 1fr 1fr;
+ column-gap: 5px;
+}
+
+img{
+  max-width: 100%;
+  max-height:100%;
+}
