@@ -791,6 +791,28 @@ blockquote::after {
 	background: var(--second-color);
 	left: 1em;
 }
+@keyframes dancing {
+		0% {
+		  transform: rotate(13deg) scale(1.25);
+		}
+	  
+		25% {
+		  transform: rotate(0deg);
+		}
+	  
+		50% {
+		  transform: rotate(-13deg) scale(1.25);
+		}
+	  
+		75% {
+		  transform: rotate(0deg);
+		}
+	  
+		100% {
+		  transform: rotate(13deg) scale(1.25);
+		}
+	  }
+
 
 /*=============== BUTTONS ===============*/
 .button {
