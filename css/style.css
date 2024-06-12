@@ -1119,7 +1119,7 @@ td:first-child {
 }
 
 .tile__img {
-	max-width: 50%;
+	max-width: 65%;
 	text-align: center;
 	height: auto;
 	object-fit: cover;
