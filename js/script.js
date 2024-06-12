@@ -61,7 +61,7 @@ sr.reveal(`.happiness,.hindi_text`, { delay: 400, origin: 'bottom' })
 sr.reveal(`.social__links`, { delay: 1000, origin: 'bottom', interval: 200 })
 sr.reveal(`.newsletter__description,.home__bottom`, { origin: 'left', delay: 400 })
 sr.reveal(`.newsletter__form,.CTA`, { origin: 'right', delay: 400 })
-sr.reveal(`.tile__img`, { delay: 600, origin: 'bottom' })
+sr.reveal(`.tile__img,.and`, { delay: 600, origin: 'bottom' })
 
 
 
