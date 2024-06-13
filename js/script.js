@@ -6,7 +6,7 @@
 
 var myaudio = document.getElementById("my_audio");
 $(document).on('click', function () {
-    myaudio.play();
+    //myaudio.play();
     console.log('Shaadi me zaroor aana');
 });
 
