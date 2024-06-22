@@ -1144,7 +1144,7 @@ td:first-child {
 	max-width: 55%;
 	text-align: center;
 	height: auto;
-	object-fit: cover;
+	object-fit: contain;
   }
 @media only screen and (max-width: 768px) {
 
